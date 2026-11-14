@@ -1,4 +1,4 @@
-# RFM-and-Cohort-Retention-Analysis
+# Customer Segmentation & Retention Analysis
 
 ## Project Overview
 This project explores a retail company's transaction history to understand customer value, purchasing patterns, and retention. It combines Recency–Frequency–Monetary (RFM) segmentation with acquisition-cohort analysis and a retrospective comparison of customers who eventually fall into different RFM segments. The objective is to identify customer groups worth prioritizing and generate hypotheses for loyalty and re-engagement campaigns—not to claim that any campaign has already improved retention.
