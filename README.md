@@ -61,4 +61,5 @@ The following data cleaning operations were performed:
 ## Key Analysis Sections
 
 ### Sales Performance
-
+1. Top countries by revenue
+   ![country](image/Revenue by country.png)
